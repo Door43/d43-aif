@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aif:home|Door43 (aif)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aif|d43-aif repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aif/archive/master.zip|d43-aif.zip]]
+
+**Recent Changes**
+{{changes>ns = aif}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aif|Ethnologue data]]
+
